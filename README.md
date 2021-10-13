@@ -1,6 +1,12 @@
-# Hi there! 👋 My name is Bhargav
+# Hi there! 👋
 
-Hi, I'm Bhargav Modak! (that's Mo - 🦆 for ya! )
+Hi, I'm Bhargav Modak! (that's pronounced Mo - 🦆 for ya! )
+
+You might also know me from various sites by my alias - The Brahmnic Boy!
+
+Pronouns : (He/Him/His)
+
+## What I know 
 
 🏫 I'm studying Computer Engineering at Terna Engineering College, Nerul, India; and I'm in my Second Year.
 
@@ -8,15 +14,17 @@ Hi, I'm Bhargav Modak! (that's Mo - 🦆 for ya! )
 
 ✒ I am proficient in Vector Graphics and Design and am quite familiar with Inkscape.
 
+🔗 I am learning a bit of Data Structures and Algorithms as prescribed by the University syllabus.
+
+## My interests
+
 📖 → 💻 I'm enthusiastic about finding better tools that improve learning environments, as well as improve the efficiency of workflow. I also want to create tools that help students and office workers to better manage their time.
 
 🎮 I also do love playing games, and talking about them, meeting communities, which led me to have experience in moderating and owning discord servers. I also do love creating guides and tools for games that enhance the new user experience.
 
 👐 Because of the above, I want to contribute heavily to open source projects that aim at making people's and players' lives better by introducing efficient tools and software.
 
-🔗 I am learning a bit of Data Structures and Algorithms as prescribed by the University syllabus.
-
-### My plan for the next year includes :
+## My plan till June 2022
 - Gaining mastery over Unix Command line, Git, and GitHub
 - Gaining mastery over DSA in C++ and Java
 - Gaining proficiency over BackEnd Web Development: Node.js, React.js, Mongoose, MongoDB, and much more,
@@ -25,3 +33,11 @@ Hi, I'm Bhargav Modak! (that's Mo - 🦆 for ya! )
 - Completing my newbie guide for a particular Multiplayer game
 - Completing my Personal website with all the magical interactiveness
 - Creating a website for my class that allows them to view events, deadlines, and stories at a glance - along with more functionality
+
+## Where can you reach me?
+
+#### On my Discord (most active) : The Brahmnic Boy#3847
+
+OR
+
+&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thebrahmnicboy/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='twitter' height='40'>](mailto:thebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-4.png' alt='twitter' height='40'>](https://www.reddit.com/user/TheBrahmnicBoy) 
