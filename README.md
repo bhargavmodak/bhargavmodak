@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Bhargav
+# Hi there! ![image](https://user-images.githubusercontent.com/82528318/137069713-84831c4d-5498-4c23-82a3-0db7c3fb1d3d.png) My name is Bhargav
 
 Hi, I'm Bhargav Modak! (that's Mo - 🦆 for ya! )
 
