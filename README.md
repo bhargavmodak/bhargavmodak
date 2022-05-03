@@ -24,6 +24,11 @@ Pronouns : (He/Him/His)
 
 👐 Because of the above, I want to contribute heavily to open source projects that aim at making people's and players' lives better by introducing efficient tools and software.
 
+## Stats
+![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=TheBrahmnicBoy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrahmnicBoy&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
+
 ## My plan till June 2022
 - Gaining mastery over Unix Command line, Git, and GitHub
 - Gaining mastery over DSA in C++ and Java
