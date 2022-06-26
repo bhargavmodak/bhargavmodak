@@ -29,16 +29,6 @@ Pronouns : (He/Him/His)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrahmnicBoy&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
 
-## My plan till June 2022
-- Gaining mastery over Unix Command line, Git, and GitHub
-- Gaining mastery over DSA in C++ and Java
-- Gaining proficiency over BackEnd Web Development: Node.js, React.js, Mongoose, MongoDB, and much more,
-- Contributing to fan-driven Open-source MMORPG projects
-- Creating a Discord Bot using Python/Node.js/Java for multiple kinds of servers
-- Completing my newbie guide for a particular Multiplayer game
-- Completing my Personal website with all the magical interactiveness
-- Creating a website for my class that allows them to view events, deadlines, and stories at a glance - along with more functionality
-
 ## Where can you reach me?
 
 #### On my Discord (most active) : The Brahmnic Boy#3847
