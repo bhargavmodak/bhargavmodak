@@ -35,4 +35,6 @@ Pronouns : (He/Him/His)
 
 OR
 
-&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](thebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png' alt='Reddit' height='40'>](https://www.reddit.com/user/TheBrahmnicBoy) 
+&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailtothebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png' alt='Reddit' height='40'>](https://www.reddit.com/user/TheBrahmnicBoy) 
+
+<sub>Note: The Mail link only works if you have configured how your browser handles `mailto` requests.</sub>
