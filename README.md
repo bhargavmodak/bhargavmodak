@@ -24,17 +24,11 @@ Pronouns : (He/Him/His)
 
 👐 Because of the above, I want to contribute heavily to open source projects that aim at making people's and players' lives better by introducing efficient tools and software.
 
-## Stats
-![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=TheBrahmnicBoy&show_icons=true&theme=radical)
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrahmnicBoy&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
 
 ## Where can you reach me?
-
-#### On my Discord (most active) : The Brahmnic Boy#3847
-
-OR
-
 &nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailtothebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png' alt='Reddit' height='40'>](https://www.reddit.com/user/TheBrahmnicBoy) 
 
 <sub>Note: The Mail link only works if you have configured how your browser handles `mailto` requests.</sub>
