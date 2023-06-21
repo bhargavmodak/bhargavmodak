@@ -2,19 +2,15 @@
 
 Hi, I'm Bhargav Modak! (that's pronounced Mo - 🦆 for ya! )
 
-You might also know me from various sites by my alias - The Brahmnic Boy!
-
-Pronouns : (He/Him/His)
+Pronouns : (He/Him/His), also (I, you, me, myself, ... and a lot of others!)
 
 ## What I know 
 
-🏫 I'm studying Computer Engineering at Terna Engineering College, Nerul, India; and I'm in my Second Year.
+🏫 I'm studying Computer Engineering at **Terna Engineering College**, Nerul, India; and I'm in my Fourth Year.
 
-⌨ I am familiar with languages such as C, C++, Java, Python 3, and Front End Web Development.
+⌨ I am a Fullstack developer in Javascript, and also know my way around C, C++, Java, Python. 
 
-✒ I am proficient in Vector Graphics and Design and am quite familiar with Inkscape.
-
-🔗 I am learning a bit of Data Structures and Algorithms as prescribed by the University syllabus.
+✒ I am proficient in Vector Graphics and Design and am quite familiar with **Inkscape**.
 
 ## My interests
 
