@@ -1,9 +1,8 @@
-# Hi there! 👋
+# Hi, I'm Bhargav Modak! 👋
+<sub>Pronounced (/bʰɑːrgəvə moːɖəkə/)</sub>
+<sub>[Listen to this pronounciantion](http://ipa-reader.xyz/?text=b%CA%B0%C9%91%CB%90rg%C9%99v%C9%99%20mo%CB%90%C9%96%C9%99k%C9%99)</sub>
 
-Hi, I'm Bhargav Modak! (that's pronounced Mo - 🦆 for ya! )
-
-Pronouns : (He/Him/His), also (I, you, me, myself, ... and a lot of others!)
-
+Pronouns : (It/Its)
 ## What I know 
 
 🏫 I'm studying Computer Engineering at **Terna Engineering College**, Nerul, India; and I'm in my Fourth Year.
@@ -22,7 +21,7 @@ Pronouns : (He/Him/His), also (I, you, me, myself, ... and a lot of others!)
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrahmnicBoy&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavmodak&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
 
 ## Where can you reach me?
 &nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:thebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
