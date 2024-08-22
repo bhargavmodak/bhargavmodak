@@ -1,29 +1,70 @@
-# Hi, I'm Bhargav Modak! 👋
-<sub>Pronounced (/bʰɑːrgəvə moːɖəkə/)</sub>
-<sub>[Listen to this pronounciantion](http://ipa-reader.xyz/?text=b%CA%B0%C9%91%CB%90rg%C9%99v%C9%99%20mo%CB%90%C9%96%C9%99k%C9%99)</sub>
+<h1 align="center">⪢ Bhargav Modak ⪡</h1>
+<div align="center">
+    <sub>Pronounced (/bʰɑːrgəvə moːɖəkə/)</sub>
+    <sub>
+        <a href="http://ipa-reader.xyz/?text=b%CA%B0%C9%91%CB%90rg%C9%99v%C9%99%20mo%CB%90%C9%96%C9%99k%C9%99" target="_blank">
+        Listen to this pronounciantion
+        </a>
+    </sub>
+    <sub> | Pronouns - He/Him/His/It/Its</sub>
+</div>
 
-Pronouns : (It/Its)
-## What I know 
+## ↝ What I know 
 
-🏫 I'm studying Computer Engineering at **Terna Engineering College**, Nerul, India; and I'm in my Fourth Year.
+↠ 🗑️ Javascript - NodeJS, React, Express, Vue and NextJS
 
-⌨ I am a Fullstack developer in Javascript, and also know my way around C, C++, Java, Python. 
+↠ 🐍 Python - Streamlit, NEAT Python
 
-✒ I am proficient in Vector Graphics and Design and am quite familiar with **Inkscape**.
+↠ 🛢️ Database - MongoDB, MySQL, PostgreSQL
 
-## My interests
+↠ 🔥 Backend as a Service - Firebase, Supabase
 
-📖 → 💻 I'm enthusiastic about finding better tools that improve learning environments, as well as improve the efficiency of workflow. I also want to create tools that help students and office workers to better manage their time.
+↠ ✒️ Vector Graphics - Inkscape, Excalidraw
 
-🎮 I also do love playing games, and talking about them, meeting communities, which led me to have experience in moderating and owning discord servers. I also do love creating guides and tools for games that enhance the new user experience.
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://inkscape.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/>
+    </a>
+</p>
 
-👐 Because of the above, I want to contribute heavily to open source projects that aim at making people's and players' lives better by introducing efficient tools and software.
+## ↝ What I want to do
 
-## Languages
+↠ Finding better tools that improve learning environments.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavmodak&layout=compact)](https://github.com/TheBrahmnicBoy/github-readme-stats)
+↠ Creating tools that help students and office workers to better manage their time.
 
-## Where can you reach me?
-&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/thebrahmnicboy)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:thebrahmnicboy@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
+↠ Play games, create games, create online guides and tools for games.
+
+↠ Contribute to open source projects.
+
+## ↝ Where can you reach me?
+&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhargavmodak)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:bhargav0modak@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <sub>Note: The Mail link only works if you have configured how your browser handles `mailto` requests.</sub>
+<br>
+<sub>Looking for Twitter? Why are you still using that dumpster fire?</sub>
