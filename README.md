@@ -13,6 +13,8 @@
 
 ↠ 🗑️ Javascript - NodeJS, React, Express, Vue and NextJS
 
+↠ 🍵 Java - Core Java, JDBC, JSP, Servlets
+
 ↠ 🐍 Python - Streamlit, NEAT Python
 
 ↠ 🛢️ Database - MongoDB, MySQL, PostgreSQL
